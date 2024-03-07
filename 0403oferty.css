@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+    padding-right: 40px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #4a1ace;
+  }
+  .icons{
+    background-color: rgb(196, 196, 255);
+    height: 110px;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding-right: 65px;
+  }
+  .uslugiInformatyczne{
+margin-left: 45px;
+margin-right: 45px;
+background-color: grey;
+}
+  .linee{
+    margin-left: 170px;
+    margin-right: 170px;
+  }
+  .lower{
+    margin-left: 170px;
+    color: blue;
+  }
+  footer{
+    background-color: rgb(196, 196, 255);
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 30%;
+    bottom: 0;
+    width: 94%;
+    height: 45px;
+
+}
+.mlower{
+  position: relative;
+}
+h2{
+  text-align: center;
+}

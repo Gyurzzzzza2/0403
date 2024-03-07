@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+    padding-right: 40px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #4a1ace;
+  }
+  .icons{
+    background-color: rgb(196, 196, 255);
+    height: 110px;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding-right: 65px;
+  }
+  .uslugiInformatyczne{
+margin-left: 45px;
+margin-right: 45px;
+background-color: grey;
+}
+  .registrationForm{
+    margin-top: 2%;
+    margin-left: 10%;
+    color: blue;
+  }
+  .chek{
+    margin-left: 75px;
+  }
+  .butons{
+    display: inline;
+    display: block;
+    margin-left: 75px;
+  }
+  .linee{
+    margin-left: 170px;
+    margin-right: 170px;
+  }
+  .lower{
+    margin-left: 170px;
+    color: blue;
+  }
+  footer{
+    background-color: rgb(196, 196, 255);
+    margin-left: 45px;
+    margin-right: 45px;
+    position: absolute;
+    bottom: 0;
+    width: 94%;
+}
+.mlower{
+  position: relative;
+}
+.otstup{
+  padding-bottom: 2.5rem;
+}
